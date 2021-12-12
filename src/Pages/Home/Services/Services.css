@@ -1,0 +1,16 @@
+.sercvice-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}
+
+@media  only screen and (max-width:688px) {
+    .sercvice-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+@media  only screen and (max-width:689px) and (min-width:991px) {
+    .sercvice-container{
+        grid-template-columns: repeat(2,1fr);
+    }
+}

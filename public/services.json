@@ -1,0 +1,44 @@
+[
+    {
+      "name": "replace tire",
+      "price": "$200",
+      "id": 1,
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/pdS1BPs/1.jpg"
+    },
+    {
+      "name": "brake repairing",
+      "price": "$2000",
+      "id": 2,
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/rpfM3Wp/2.jpg"
+    },
+    {
+      "name": "oil changing",
+      "price": "$300",
+      "id": 3,
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/KXkCKK1/3.jpg"
+    },
+    {
+      "name": "gear replacement",
+      "price": "$500",
+      "id": 4,
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/PCm662G/6.jpg"
+    },
+    {
+      "name": "engine repair",
+      "price": "$5000",
+      "id": 5,
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/L9CLSRn/7.jpg"
+    },
+    {
+      "name": "color and design",
+      "price": "$3000",
+      "id": 6,
+      "desc":"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+      "img": "https://i.ibb.co/M1JHWLn/11.jpg"
+    }
+  ]
